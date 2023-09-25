@@ -1,0 +1,1 @@
+Co parent repo which should only be able to pull ther changes in sub module not push any changes
