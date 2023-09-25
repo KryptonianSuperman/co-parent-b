@@ -1,0 +1,4 @@
+[submodule "submodule-to-sync"]
+	path = submodule-to-sync
+	url = git@github.com:KryptonianSuperman/submodule-to-sync.git
+	branch = main
